@@ -1,4 +1,4 @@
-# PGS.TRI-Analysis
+# PGS-TRI-Analysis
 
 This repository contains the source code to reproduce analyses in "Estimation of Direct and Indirect Polygenic Effects and Gene-Environment Interactions using Polygenic Scores in Case-Parent Trio Studies."
 
@@ -12,4 +12,4 @@ The official software package is in [PGS.TRI](https://github.com/ziqiaow/PGS.TRI
 
 ### Data Applications in SPARK and GENEVA
 
-### Transcriptome-Wide and Metabolome-Wide Analysis using PGS.TRI
+### Transcriptome-Wide and Metabolome-Wide Analysis using PGS-TRI
