@@ -4,3 +4,12 @@ This repository contains the source code to reproduce analyses in "Estimation of
 
 The official software package is in [PGS.TRI](https://github.com/ziqiaow/PGS.TRI/tree/main).
 
+## File structures
+
+### Main and Extended Figures
+
+### Simulation
+
+### Data Applications
+
+### Multi-omics Analysis
