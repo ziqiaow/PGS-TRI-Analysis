@@ -11,7 +11,7 @@ The official software package is in [PGS.TRI](https://github.com/ziqiaow/PGS.TRI
 ### 2_Simulation
 #### Directly Simulate PGS based on the Model
 
-#### Simulation using UK Biobank Data
+#### Simulation using the UK Biobank Data
 
 
 ### 3_Data Applications in SPARK and GENEVA
