@@ -10,6 +10,6 @@ The official software package is in [PGS.TRI](https://github.com/ziqiaow/PGS.TRI
 
 ### Simulation
 
-### Data Applications
+### Data Applications in SPARK and GENEVA
 
-### Multi-omics Analysis
+### Transcriptome-Wide and Metabolome-Wide Analysis using PGS.TRI
