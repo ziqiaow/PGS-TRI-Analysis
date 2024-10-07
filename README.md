@@ -17,3 +17,7 @@ The official software package is in [PGS.TRI](https://github.com/ziqiaow/PGS.TRI
 ### 3_Data Applications in SPARK and GENEVA
 
 ### 4_Transcriptome-Wide and Metabolome-Wide Analysis using PGS-TRI
+
+
+# Questions
+Please send your questions/suggestions to zwang389@jhu.edu 
