@@ -6,17 +6,15 @@ The official software package is in [PGS.TRI](https://github.com/ziqiaow/PGS.TRI
 
 ## File structures
 
-### 1_Main and Extended Figures
-#### 
-### 2_Simulation
+### 1_Simulation
 #### Simulate PGS based on the Model
 
 #### Simulation using the UK Biobank Data
 
 
-### 3_Data Applications in SPARK and GENEVA
+### 2_Data Applications in SPARK and GENEVA
 
-### 4_Transcriptome-Wide and Metabolome-Wide Analysis using PGS-TRI
+### 3_Transcriptome-Wide and Metabolome-Wide Analysis using PGS-TRI
 
 
 # Questions
