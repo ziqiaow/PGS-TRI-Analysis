@@ -1,7 +1,7 @@
 #readme
 
 #step 1: 
-Download data from the phewas website
+Download data from the OMICSPRED website
 https://www.omicspred.org/
 
 #step 2: (can skip if we are only using the SNP names)
