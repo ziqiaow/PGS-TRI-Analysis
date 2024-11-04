@@ -6,7 +6,8 @@ The official software package is in [PGS.TRI](https://github.com/ziqiaow/PGS.TRI
 
 ## File structures
 
-### 1_Simulation
+### 1_main_and_extended_figures
+### 2_Simulation
 #### Simulate PGS based on the Model
 
 #### Simulation using the UK Biobank Data
