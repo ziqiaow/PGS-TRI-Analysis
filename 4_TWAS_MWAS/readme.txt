@@ -4,7 +4,7 @@
 Download data from the OMICSPRED website
 https://www.omicspred.org/
 
-#step 2: (can skip if we are only using the rsid)
+#step 2: (can skip if we are using the rsid)
 Overlift the ASD data from hg38 to hg37/hg19, given that the weights and SNPs are in hg19 format
 
 #step 3:
