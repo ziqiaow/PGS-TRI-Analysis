@@ -1,0 +1,10 @@
+bipolar
+bipolar1
+bipolar2
+bmi_prive
+chronotype
+depression
+edu
+insomnia
+neuroticism
+schizophrenia
