@@ -2,7 +2,7 @@
 
 This repository contains the source code to reproduce analyses in "Estimation of Direct and Indirect Polygenic Effects and Gene-Environment Interactions using Polygenic Scores in Case-Parent Trio Studies."
 
-The official software package with instructions and examples to perform PGS-TRI is in [PGS.TRI](ziqiaow.github.io/PGS.TRI/).
+The official software package with instructions and examples to perform PGS-TRI is in [PGS.TRI](https://ziqiaow.github.io/PGS.TRI/).
 
 Preprint manuscript is released at [medRxiv](https://www.medrxiv.org/content/10.1101/2024.10.08.24315066v1). 
 
