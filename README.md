@@ -4,7 +4,7 @@ This repository contains the source code to reproduce analyses in "Estimation of
 
 The official software package with instructions and examples to perform PGS-TRI is in [PGS.TRI](https://ziqiaow.github.io/PGS.TRI/).
 
-Preprint manuscript is released at [medRxiv](https://www.medrxiv.org/content/10.1101/2024.10.08.24315066v1). 
+Preprint manuscript is released at [medRxiv](https://www.medrxiv.org/content/10.1101/2024.10.08.24315066v2). 
 
 ## File structures
 
