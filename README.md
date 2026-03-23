@@ -31,4 +31,4 @@ This directory contains the source codes of the PGS-TRI software [PGS.TRI](https
 This directory contains the source codes of the analyses done for revision version 1 09/02/2025. Additional analyses performed including the new 18,383 trios in SPARK v3. PGS standardization using PC projections based on 1000G+HGDP reference data. PGSxPC interactions. Direct and indirect effect estimations for ASD and various pleiotropy traits. GTEx v8 TWAS analysis in brain tissues. Simulation studies of assessing selection bias, and simulating 20 generations of assortative mating in phenotypes using snipar. Updated simulation studies using UKB.
 
 # Questions
-Please send your questions/suggestions to Ziqiao Wang (zwang389@jhu.edu).
+Please send your questions/suggestions to Ziqiao Wang (ziqiao.wang@virginia.edu).
