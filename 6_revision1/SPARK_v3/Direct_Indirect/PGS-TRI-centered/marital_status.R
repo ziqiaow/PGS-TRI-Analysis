@@ -32,15 +32,14 @@ for(i in 1:length(trait)){
   res_kstest[[i]] = ks.test(dat_UKB[which(dat_UKB$Sex == "Female"),(2*i+27)],dat_UKB[which(dat_UKB$Sex == "Male"),(2*i+27)])$p
 }
 
-
 diff_var = function(x,y){
-  z = c(x,y)
-  diff = (mean(x)-mean(y))/(sd(z))
-  sd = sqrt(1/length(x) + 1/length(y))
-  res = list(diff = diff,sd = sd)
+  diff = (mean(x)-mean(y))/sqrt((var(x)*(length(x)-1) + var(y)*(length(y)-1))/(length(x)+length(y)-2))
+  sd = sqrt( (1/length(x) + 1/length(y))+ diff^2/(2*(length(x) + length(y))))
+  res = list(diff = diff,sd =sd )
   return(res)
   
 }
+
 res_diff = list()
 for(i in 1:length(trait)){
   res_diff[[i]] = diff_var(dat_UKB[which(dat_UKB$Sex == "Female"),(2*i+27)],dat_UKB[which(dat_UKB$Sex == "Male"),(2*i+27)])
