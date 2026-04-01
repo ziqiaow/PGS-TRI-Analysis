@@ -11,7 +11,7 @@ trait=c("edu","schizophrenia","depression","bipolar","adhd","bmi_prive","bipolar
 
 #load UKB mean values
 UKB_res_diff = read.csv("./family/data/pleiotropy/UKB/diff_var.csv")
-UKB_res_diff_married = read.csv("./family/data/pleiotropy/UKB/diff_var_married.csv")
+UKB_res_diff_married = read.csv("./family/data/pleiotropy/UKB/diff_var_married_raw.csv")
 UKB_res_diff$trait = trait
 UKB_res_diff_married$trait = trait
 
