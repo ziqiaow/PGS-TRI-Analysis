@@ -32,8 +32,7 @@ My_Theme = theme(
 #####################################################################
 # Panel A
 
-#type I error for UKB simulation results for DE
-#load data with PS matched by geographical regions only
+#type I error for snipar simulation results for DE
 
 load("./family/simulation/snipar/08192025/results_summary_beta_main.rda")
 
@@ -65,8 +64,7 @@ p1 <- ggplot(data=data_plot, aes(x=Method, y=type1error.power , fill=Method)) +
 
 # Panel B
 
-#type I error for UKB simulation results for IDE
-#load data with PS matched by geographical regions only
+#type I error for snipar simulation results for IDE
 
 load("./family/simulation/snipar/08192025/results_summary_delta_indirect.rda")
 load("./family/simulation/snipar/08192025/results_summary_mother.rda")
